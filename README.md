@@ -19,11 +19,11 @@ Here are some ideas to get you started:
     <img
         alt = "GitHub Stats"
         height = "180"
-        src="https://github-readme-stats.vercel.app/api?username=elisrb&show_icons=true&theme=calm&bg_color=00000000"
+        src="https://github-readme-stats.vercel.app/api?username=elisrb&show_icons=true&theme=calm"
     />
     <img
         alt = "GitHub Stats"
         height = "180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisrb&layout=compact&theme=calm&bg_color=00000000"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisrb&layout=compact&theme=calm"
     />
 </div>
