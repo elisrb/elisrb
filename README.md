@@ -12,7 +12,7 @@
 
 <div>
     <img align="left" alt="Computador" width="20px" src="https://github.com/user-attachments/assets/02c4dee1-a4b6-4deb-b633-460cf00fbd5b" padding-right=10px/>
-    <p>Researcher at <a href="https://ailab.unb.br">AI Lab UnB</a></p>
+    <p>Back-end developer at <a href="https://ailab.unb.br">AI Lab UnB</a></p>
 </div>
 
 ## Tools & Technologies
