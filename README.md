@@ -34,6 +34,6 @@
     <img
         alt = "GitHub Stats"
         height = "180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisrb&layout=compact&theme=calm&count_private=true&size_weight=0.5&count_weight=0.5"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisrb&layout=compact&theme=calm&count_private=true&size_weight=0.3&count_weight=0.7"
     />
 </div>
