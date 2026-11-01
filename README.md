@@ -29,12 +29,12 @@
 ##
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img
-        alt = "GitHub Stats 1"
+        alt = ""
         height = "180"
         src="https://github-readme-stats.vercel.app/api?username=elisrb&theme=calm&show_icons=true&hide_border=false&count_private=true"
     />
     <img
-        alt = "GitHub Stats 2"
+        alt = ""
         height = "180"
         src="https://github-readme-streak-stats.herokuapp.com/?user=elisrb&theme=calm&hide_border=false&count_private=true"
     />
